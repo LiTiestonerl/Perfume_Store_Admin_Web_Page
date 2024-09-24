@@ -1,0 +1,13 @@
+# Thư mục Node modules (nếu có)
+node_modules/
+
+# Thư mục build/output (nếu có)
+dist/
+build/
+
+# Tệp OS generated
+.DS_Store
+Thumbs.db
+
+# Tệp môi trường
+.env
