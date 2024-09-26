@@ -1,6 +1,6 @@
 # Perfume_Store_MO_App-Web_Dashboard
 
-A new Flutter project.
+A new Project for SWD392 subject.
 
 ## Getting Started
 
