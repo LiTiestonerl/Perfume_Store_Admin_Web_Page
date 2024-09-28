@@ -1,10 +1,10 @@
 {
     "version": 2,
     "builds": [
-      { "src": "src/FE/admin/**/*", "use": "@vercel/static" }
+      { "src": "src/FE/**/*", "use": "@vercel/static" }
     ],
     "routes": [
-      { "src": "/", "dest": "/src/FE/admin/index.html" },
-      { "src": "/(.*)", "dest": "/src/FE/admin/$1" }
+      { "src": "/", "dest": "/src/FE/index.html" },
+      { "src": "/(.*)", "dest": "/src/FE/$1" }
     ]
 }
