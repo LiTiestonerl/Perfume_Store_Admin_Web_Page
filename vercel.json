@@ -4,7 +4,7 @@
       { "src": "src/FE/**/*", "use": "@vercel/static" }
     ],
     "routes": [
-      { "src": "/", "dest": "/src/FE/index.html" },
+      { "src": "/", "dest": "/src/FE/login.html" },
       { "src": "/(.*)", "dest": "/src/FE/$1" }
     ]
 }
