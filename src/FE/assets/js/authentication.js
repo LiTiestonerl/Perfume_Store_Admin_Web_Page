@@ -1,4 +1,4 @@
-const BASE_API_URL = "http://localhost:5177/api/auth";
+const BASE_API_URL = "https://perfume-store-mo-app-web-dashboard.vercel.app/api/auth";
 
 document.getElementById("loginButton").addEventListener("click", loginWithGoogle);
 
